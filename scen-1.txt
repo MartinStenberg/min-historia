@@ -2,11 +2,11 @@ Det var en gång en krigare som hette Conan!
 
 Namn: Conan
 
-Egenskaper
+EGENSKAPER
 Styrka: 10
 Intelligens 6
 Smidighet: 7
 Uthållighet: 10
 
-Färdigheter
+FÄRDIGHETER
 Slaktarslag
