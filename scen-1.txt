@@ -2,3 +2,5 @@ Det var en gång en krigare som hette Conan!
 
 Styrka: 10
 Intelligens 6
+Agility 7
+Endurance 10
